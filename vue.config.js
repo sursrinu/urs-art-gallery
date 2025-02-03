@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/urs-art-gallery/dist/'
+  publicPath: '/urs-art-gallery/'
 }
