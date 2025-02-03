@@ -2,13 +2,11 @@
   "name": "urs-art-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sursrinu.github.io/urs-art-gallery/dist/",
+  "homepage": "https://sursrinu.github.io/urs-art-gallery/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "deploy": "gh-pages -d dist",
-    "predeploy": "npm run build"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.8.3",
