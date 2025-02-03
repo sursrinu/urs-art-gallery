@@ -1,4 +1,5 @@
 # urs-art-gallery
+# POC
 
 ## Project setup
 ```
