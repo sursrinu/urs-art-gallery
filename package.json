@@ -2,7 +2,7 @@
   "name": "urs-art-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sursrinu.github.io/urs-art-gallery",
+  "homepage": "https://sursrinu.github.io/urs-art-gallery/dist/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
